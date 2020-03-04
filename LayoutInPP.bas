@@ -1,6 +1,5 @@
 Attribute VB_Name = "LayoutInPP"
 Option Explicit
-Const cWKSNAME1 As String = "Prozessbeschreibung"
 Const cPPPNAME As String = "Swimlane"
 Const CFONT As String = "Arial"
 Const CFONTSIZE As Integer = 12
