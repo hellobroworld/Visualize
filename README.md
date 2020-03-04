@@ -1,6 +1,8 @@
 # Visualize
 Create automatically timetables and swimlanes for your projects
 
+(Easy Guide to download VBA-Projects to your Excel-Workbook: https://github.com/hellobroworld/downloadVBAProjects/blob/master/README.md)
+
 Manual:
 1. Create a table on an excel worksheet and be careful to name the sheet, table and columns right:
 
