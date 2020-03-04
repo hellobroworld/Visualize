@@ -1,2 +1,2 @@
 # Visualize
-Create automatically timetables and swimlane for your projects
+Create automatically timetables and swimlanes for your projects
