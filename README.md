@@ -19,4 +19,8 @@ Manual:
 ![Add Macro](https://user-images.githubusercontent.com/44786302/75882385-59198d80-5e21-11ea-9f03-6011d8d722f3.PNG)
 
 Results:
+Example Timetable
 ![Example Timetable](https://user-images.githubusercontent.com/44786302/75879908-8adc2580-5e1c-11ea-9084-4ccfcc940f56.PNG)
+
+Example Swimlane
+![Example Swimlane](https://user-images.githubusercontent.com/44786302/75883157-d42f7380-5e22-11ea-8372-cbf974ab9e07.PNG)
